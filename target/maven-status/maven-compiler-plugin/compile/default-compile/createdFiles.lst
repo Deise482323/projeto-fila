@@ -1,0 +1,10 @@
+br/com/cadastro/domain/Endereco$EnderecoBuilder.class
+br/com/cadastro/domain/Pessoa.class
+br/com/cadastro/config/SwaggerConfig.class
+br/com/cadastro/http/CadastroController.class
+br/com/cadastro/config/RabbitConfig.class
+br/com/cadastro/amqp/PublisherCadastro.class
+br/com/cadastro/domain/Endereco.class
+br/com/cadastro/service/PublicarEmFilaSalvar.class
+br/com/cadastro/CadastroApplication.class
+br/com/cadastro/domain/Pessoa$PessoaBuilder.class

@@ -1,0 +1,8 @@
+/home/deise/projetos-git/projeto-fila/src/main/java/br/com/publicador/domain/Endereco.java
+/home/deise/projetos-git/projeto-fila/src/main/java/br/com/publicador/config/RabbitConfig.java
+/home/deise/projetos-git/projeto-fila/src/main/java/br/com/publicador/domain/Pessoa.java
+/home/deise/projetos-git/projeto-fila/src/main/java/br/com/publicador/amqp/PublisherCadastro.java
+/home/deise/projetos-git/projeto-fila/src/main/java/br/com/publicador/http/CadastroController.java
+/home/deise/projetos-git/projeto-fila/src/main/java/br/com/publicador/CadastroApplication.java
+/home/deise/projetos-git/projeto-fila/src/main/java/br/com/publicador/service/PublicarEmFilaSalvar.java
+/home/deise/projetos-git/projeto-fila/src/main/java/br/com/publicador/config/SwaggerConfig.java
